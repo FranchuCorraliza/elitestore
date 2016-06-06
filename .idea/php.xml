@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="192.168.1.120" id="a6cbaae9-20dc-451a-a622-027189deb4a5" name="elitelocal" port="8080" use_path_mappings="true" />
+    </servers>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+/blog2
+/blogbahiney
+/dev
+/media
+/var
